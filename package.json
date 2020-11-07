@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "Arctic",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "fast-xml-parser": "^3.17.3"
+  }
 }
